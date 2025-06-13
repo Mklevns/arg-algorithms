@@ -1,8 +1,8 @@
 Arithmetic Renormalization Group Theory: A New Framework for Discrete Dynamical Systems with Application to the Collatz Conjecture
 Michael Evans
 Independent Researcher
-Email: [your email]
-Date: December 2024
+Email: Michael.Evans@wwcc.edu
+Date: June 2025
 
 Abstract
 We introduce the Arithmetic Renormalization Group (ARG), a novel theoretical framework for analyzing discrete dynamical systems where traditional continuous renormalization group methods fail. Applied to the Collatz conjecture, ARG reveals universal critical behavior with exact analytical predictions: coupling constants $g_1^* = 13$, $g_2^* = 13/588$, ratio $g_1^/g_2^ = 588 = 4 \times 3 \times 49$, and critical exponent $\alpha = \sqrt{5}/\varphi \approx 1.381966$, where $\varphi = (1+\sqrt{5})/2$ is the golden ratio. These values, confirmed through extensive numerical analysis of $10^6$ trajectories, emerge naturally from the interplay of information theory, modular arithmetic, and Fibonacci recursion. The framework demonstrates that the Collatz map exhibits arithmetic criticality at $\rho = 1$, providing strong theoretical evidence for the conjecture's validity. Beyond Collatz, ARG opens new avenues for understanding discrete dynamical systems, number-theoretic algorithms, and the emergence of universality in arithmetic processes.
@@ -302,8 +302,7 @@ The author thanks the broader mathematics community for computational resources 
 
 ## Appendix D: Code Availability
 
-All code used in this analysis is available at: https://github.com/[username]/arithmetic-rg-collatz
-
+Code available at request and will eventually be uploaded to this repo
 ---
 
 **Submission Note:** This paper introduces fundamentally new mathematics. The Arithmetic Renormalization Group represents a paradigm shift in how we analyze discrete dynamical systems, with implications far beyond the Collatz conjecture.
